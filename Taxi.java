@@ -1,4 +1,4 @@
-package Charan.TaxiReservation;
+package Charan.Practice.TaxiReservation;
 
 import java.util.ArrayList;
 import java.util.List;
